@@ -1,3 +1,4 @@
+# Importing the standard libraries
 import tensorflow as tf
 
 from feeder import VarFeeder

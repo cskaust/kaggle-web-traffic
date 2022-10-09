@@ -1,4 +1,5 @@
 2018-10-15
+# some product updates
 - Model updated to work with a modern Tensorflow (>=1.10)
 - Switched to Adam instead of COCOB (COCOB don't works with TF > 1.4)
 - No parameter tuning for Adam performed, therefore model probably has
